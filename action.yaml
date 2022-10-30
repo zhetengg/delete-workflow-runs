@@ -24,8 +24,8 @@ inputs:
     default: 6
 
 runs:
-  using: 'node12'
-  main: 'dist/index.js'
+  using: 'node16'
+  main: 'main.js'
 
 branding:
   icon: 'delete'
